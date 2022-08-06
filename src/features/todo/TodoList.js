@@ -17,7 +17,7 @@ function TodoList() {
 
   return (
     <div>
-      <h1>TodoList - hello</h1>
+      <h1>TodoList - Testing Heroku</h1>
       <TodoGroup todoList={todoList}/>
       <TodoGenerator />
     </div>
